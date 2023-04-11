@@ -12,7 +12,6 @@ label {
 }
 .colOne {
 	background-color: white;
-	/* darkkhaki */
 }
 .colTwo {
 	background-color: rgb(255, 255, 255);
@@ -25,7 +24,7 @@ label {
   background-color: lightgreen;
 }
 .yellow{
-  background-color: yellow;
+  background-color: rgb(200, 104, 41);
 }
 .orange{
   background-color: orange;
